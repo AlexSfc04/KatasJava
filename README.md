@@ -1,6 +1,6 @@
-# Proyecto: Katas en Java y Depuración
+# Proyecto: Resolucion de Katas en Java y Depuración
 
-Este proyecto contiene soluciones para dos problemas de programación en Java (katas) y demuestra el uso de herramientas de depuración en Eclipse.
+Este proyecto contiene soluciones para dos problemas de programación en Java (katas), donde demuestro el uso de herramientas de depuración en Eclipse.
 
 ## Archivos
 - **`FizzBuzz.java`**: Imprime números del 1 al 100 con las reglas de FizzBuzz.
